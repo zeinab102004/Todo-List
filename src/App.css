@@ -1,0 +1,18 @@
+.btn{
+  transition: 0.2s;
+}
+.btn:hover{
+  opacity: 0.8;
+  box-shadow: 0 7px 7px rgba(0,0,0,0.4);
+}
+
+.card{
+  transition: 0.8s;
+}
+.card:hover{
+padding-top: 10px;
+padding-bottom: 10px;
+  box-shadow: 0 5px 8px rgba(0,0,0,0.6);
+
+}
+
